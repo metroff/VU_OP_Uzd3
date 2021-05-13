@@ -60,7 +60,7 @@ class Vector {
             create(count, value);
         }
 
-        template <class InputIt>
+        template <class InputIt, class = RequireInputIterator<InputIt>>
         void assign(InputIt first, InputIt last){
             destroy();
             create(first, last);
