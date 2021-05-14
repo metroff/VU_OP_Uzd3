@@ -1,10 +1,10 @@
 # DIY Vektorius
-### [Vector::push_back](#vectorpush_back)
-### [Vector::assign](#vectorassign)
-### [Vector::at](#vectorat)
-### [Vector::shrink_to_fit](#vectorshrink_to_fit)
-### [Vector::clear](#vectorclear)
-### [Palyginimo operatoriai](#palyginimo-operatoriai)
+- [Vector::push_back](#vectorpush_back)
+- [Vector::assign](#vectorassign)
+- [Vector::at](#vectorat)
+- [Vector::shrink_to_fit](#vectorshrink_to_fit)
+- [Vector::clear](#vectorclear)
+- [Palyginimo operatoriai](#palyginimo-operatoriai)
 
 # Vector::push_back
 ## Spartos su `std::vector` palyginimas
